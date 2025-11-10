@@ -1,3 +1,5 @@
+--Design and Develop SQL DDL statements which demonstrate the use of SQL objects such as Table, View, Index, Sequence, Synonym, different constraints etc. 
+
 
 create database employee;
 use employee;
