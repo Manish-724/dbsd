@@ -1,3 +1,4 @@
+--2.	Design and develop SQL Queries – all types of joins, sub-queries and views.
 create database student;
 use student;
 create table stud_tab(stud_id int(4),stud_name varchar(20),stud_dept varchar(10),stud_dob date,stud_address varchar(10));
